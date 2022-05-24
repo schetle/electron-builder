@@ -1,3 +1,13 @@
+# [](https://github.com/electron-userland/electron-builder/compare/v23.0.9...v) (2022-05-24)
+
+
+### Bug Fixes
+
+* **msi:** manually escape XML special characters when building project.wxs XML ([#6878](https://github.com/electron-userland/electron-builder/issues/6878)) ([2ece89a](https://github.com/electron-userland/electron-builder/commit/2ece89a08e7fb74a11ba3d0f5980b2a57c8b34ad))
+* **nsis:** new translations for various strings in nsis messages template ([#6827](https://github.com/electron-userland/electron-builder/issues/6827)) ([fa72861](https://github.com/electron-userland/electron-builder/commit/fa72861f6cd2de97d191f1b2bbfddc6edf48ab6d))
+
+
+
 # [](https://github.com/electron-userland/electron-builder/compare/v23.0.8...v) (2022-05-06)
 
 
